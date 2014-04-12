@@ -161,21 +161,6 @@ input:invalid{
 }
 	
 
-	@media screen and (max-width:1000px)
-	
-{       #testimonios
-		{
-			font-size: 2em;
-	
-		}
-		.testimonio
-		{
-			text-align: center;
-			width: 100%
-	
-		}
-		
-}
 
 @media screen and (max-width:1000px)
 {
